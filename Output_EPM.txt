@@ -1,0 +1,24 @@
+Empirical Transition Probability Matrix:
+
+For 10^3 data points of Markov Simulation:(AS VERIFIED in EXCEL SHEET)
+TPM =
+
+[[ 0.          0.66883117  0.33116883]
+ [ 0.53117207  0.          0.4713217 ]
+ [ 0.32989691  0.67010309  0.        ]]
+
+For 10^4 data points of Markov Simulation:
+TPM =
+
+[[ 0.          0.6719011   0.3280989 ]
+ [ 0.49035329  0.          0.50989727]
+ [ 0.34338747  0.65628107  0.        ]]
+
+For 10^5 data points of Markov Simulation:
+TPM =
+
+[[ 0.          0.66355296  0.33644704]
+ [ 0.50292925  0.          0.49709579]
+ [ 0.33343341  0.66656659  0.        ]]
+
+
